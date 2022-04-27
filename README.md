@@ -1,2 +1,3 @@
-# primeiro_curso_introducao_programacao_python_negocios
+# I Curso de Itroducao à Programacao para Profissionais de Negócios
+
 Repositório do curso
