@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head></head>
+  <body>
+    <header><h1>Gestão de ambientes virtuais Python</h1></header>
+    <nav></nav>
+    <main>
+      <article>
+        <h2>Passos</h2>
+        Usando o terminal Windows Powershell ou Unix Bash, faça o que segue:
+        <ol>
+          <li> Crie a página do projeto, digitando: <pre><code>mkdir nome_do_projeto</code></pre></li>
+          <li> Entre na página do projeto, digitando: <pre><code>cd nome_do_projeto</code></pre></li>
+          <li> Crie o ambiente virtual, digitando: <pre><code>python -m venv nome_do_projeto</code></pre></li>
+          <li> Ative o ambiente virtual, digitando: <pre><code>nome_do_projeto\Scripts\activate</code></pre></li>
+        </ol>
+      </article>
+    
+    </main>
+    <aside></aside>
+    <footer></footer>
+  </body>
+</html>
+
