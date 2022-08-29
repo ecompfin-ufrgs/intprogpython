@@ -5,4 +5,5 @@ Os tópicos tratados no curso são:
 2. Programação estruturada
 3. [Programação procedural](progProced.md)
 4. [Programação Modular](progMod.md)
-5. Projetos
+5. [Criação de Ambientes Virtuais](cria_ambiente_virtual.html)
+6. Projetos
