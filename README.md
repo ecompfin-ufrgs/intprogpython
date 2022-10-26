@@ -1,3 +1,3 @@
-# I Curso de Introducao à Programacao para Profissionais de Controle Externo
+# Curso de Introducao à Programacao com Python
 
 Repositório do curso
